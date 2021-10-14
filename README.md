@@ -17,8 +17,8 @@ Nice goal here: https://www.youtube.com/watch?v=jOz2uGMTA2w
 
 ## dApps list
 
-- [ ] [Etherscan](), your new bestie.
-- [ ] [Uniswap](http://etherscan.io/)
+- [ ] [Etherscan](http://etherscan.io/), your new bestie.
+- [ ] [Uniswap](https://uniswap.org/)
 - [ ] [1inch](https://app.1inch.io)
 - [ ] [Zapper](http://zapper.fi/)
 - [ ] [Zerion](https://app.zerion.io/)
@@ -36,3 +36,10 @@ Nice goal here: https://www.youtube.com/watch?v=jOz2uGMTA2w
 - [ ] [Gnosis Safe (w/ multi-signature)](https://gnosis-safe.io)
 - [ ] [Polygon](https://polygon.technology/) (just one dApp, e.g: [Quickswap](https://quickswap.exchange/) to compare UX vs mainnet.
 - [ ] [Set Protocol](https://www.setprotocol.com/) & [Token Sets](https://www.tokensets.com/)
+- [ ] [mStable](https://mstable.org/)
+
+## Helper apps
+- [ ] [DefiSafety](https://defisafety.com/) security scoring for defi protocols.
+- [ ] [L2Beat](https://l2beat.com/), info about L2s.
+- [ ] [LoanScan](https://loanscan.io/)
+- [ ] [DefiPulse](https://defipulse.com/)
