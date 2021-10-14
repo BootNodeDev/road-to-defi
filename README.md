@@ -15,7 +15,9 @@ Nice goal here: <https://www.youtube.com/watch?v=jOz2uGMTA2w>
 - [Intro to DeFi](https://medium.com/the-capital/intro-to-defi-b4ab2ec0f156)
 - [DeFi Glossary](https://docs.dego.finance/defi-glossary)
 
-## dApps list
+## Dapps list
+
+A curated shortlist of dapps that aim to give an intro to DeFi, as a user. For a full list we recommend [Ethereum.org: Dapps](https://ethereum.org/en/dapps/#explore)
 
 - [ ] [Etherscan](http://etherscan.io/), your new bestie.
 - [ ] [Uniswap](https://uniswap.org/)
