@@ -39,7 +39,7 @@ Nice goal here: https://www.youtube.com/watch?v=jOz2uGMTA2w
 - [ ] [mStable](https://mstable.org/)
 
 ## Helper apps
-- [ ] [DefiSafety](https://defisafety.com/) security scoring for defi protocols
-- [ ] [L2Beat](https://l2beat.com/), info about L2s
+- [ ] [DefiSafety](https://defisafety.com/) security scoring for defi protocols.
+- [ ] [L2Beat](https://l2beat.com/), info about L2s.
 - [ ] [LoanScan](https://loanscan.io/)
 - [ ] [DefiPulse](https://defipulse.com/)
