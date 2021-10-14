@@ -4,11 +4,11 @@
 
 > DeFi is an open and global financial system built for the internet age – an alternative to a system that's opaque, tightly controlled, and held together by decades-old infrastructure and processes. It gives you control and visibility over your money. It gives you exposure to global markets and alternatives to your local currency or banking options. DeFi products open up financial services to anyone with an internet connection and they're largely owned and maintained by their users. So far tens of billions of dollars worth of crypto has flowed through DeFi applications and it's growing every day.
 
-_Source: https://ethereum.org/en/defi/_
+_Source: <https://ethereum.org/en/defi/>_
 
 ## Goal
 
-Nice goal here: https://www.youtube.com/watch?v=jOz2uGMTA2w
+Nice goal here: <https://www.youtube.com/watch?v=jOz2uGMTA2w>
 
 ## References
 
@@ -23,7 +23,7 @@ Nice goal here: https://www.youtube.com/watch?v=jOz2uGMTA2w
 - [ ] [Zapper](http://zapper.fi/)
 - [ ] [Zerion](https://app.zerion.io/)
 - [ ] [Balancer](https://balancer.fi/)
-- [ ] [Curve ](https://curve.fi/)
+- [ ] [Curve](https://curve.fi/)
 - [ ] [Compound](https://compound.finance/)
 - [ ] [AAVE](https://aave.com/)
 - [ ] [Yearn.finance](https://yearn.finance/)
@@ -39,6 +39,7 @@ Nice goal here: https://www.youtube.com/watch?v=jOz2uGMTA2w
 - [ ] [mStable](https://mstable.org/)
 
 ## Helper apps
+
 - [ ] [DefiSafety](https://defisafety.com/) security scoring for defi protocols.
 - [ ] [L2Beat](https://l2beat.com/), info about L2s.
 - [ ] [LoanScan](https://loanscan.io/)
