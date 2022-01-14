@@ -12,6 +12,7 @@ Nice goal here: <https://www.youtube.com/watch?v=jOz2uGMTA2w>
 
 ## References
 
+- [Guide To Decentralized Finance](https://finematics.com/guide-to-decentralized-finance/)
 - [Intro to DeFi](https://medium.com/the-capital/intro-to-defi-b4ab2ec0f156)
 - [DeFi Glossary](https://docs.dego.finance/defi-glossary)
 
